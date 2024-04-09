@@ -1,2 +1,2 @@
 # deemadev201.github.io
-[index.html](https://deemadev201.github.io/index.html)
+[index.html](https://dimakreminskyi.github.io/index.html)
